@@ -1,0 +1,12 @@
+1] https://tests.mettl.com/authenticateKey/36c4ef58
+
+Code: 
+		if(input1==0 || input2==0){
+			return 3;
+		}
+		if(input1%input2==0){
+			return 2; 
+		}
+		else{
+			return 1;
+		}
